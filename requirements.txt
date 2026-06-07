@@ -1,0 +1,7 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+onnx>=1.15.0
+onnxruntime>=1.16.0
+matplotlib>=3.7.0
+tqdm>=4.66.0
+ultralytics>=8.1.0
